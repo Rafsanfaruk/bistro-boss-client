@@ -17,3 +17,11 @@
 
 # quote  icons
  ---> https://react-icons.github.io/react-icons/
+
+ # helmet title
+
+ ---> https://www.npmjs.com/package/react-helmet-async
+
+ # parallax
+
+ ---> https://www.npmjs.com/package/react-parallax
