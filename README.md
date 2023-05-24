@@ -10,3 +10,10 @@
 # Swiper 
  
  ---> https://codesandbox.io/p/sandbox/to87xb?file=%2Fsrc%2FApp.jsx%3A40%2C1
+
+ # rating 
+
+ ---> https://github.com/smastrom/react-ratingS
+
+# quote  icons
+ ---> https://react-icons.github.io/react-icons/
