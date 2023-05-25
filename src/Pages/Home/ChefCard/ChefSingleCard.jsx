@@ -6,7 +6,7 @@ return (
       <img
         src={image}
         alt="picture"
-        className="rounded-xl"
+        className="rounded-xl object-cover"
       />
     </figure>
     <div className="card-body items-center text-center">

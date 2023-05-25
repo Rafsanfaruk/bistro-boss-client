@@ -21,7 +21,7 @@ const ChefCard = () => {
             heading={"Should try"}
             subHeading={"Chef Recommends"}
             ></SectionTitle>
-            <div className="grid md:grid-cols-3 gap-10">
+            <div className="grid md:grid-cols-3 gap-5">
         {
             chefs.map(item => <ChefSingleCard
             key={item._id}

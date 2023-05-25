@@ -25,3 +25,7 @@
  # parallax
 
  ---> https://www.npmjs.com/package/react-parallax
+
+ # Tabs
+
+ ---> https://github.com/reactjs/react-tabs
