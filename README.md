@@ -29,3 +29,11 @@
  # Tabs
 
  ---> https://github.com/reactjs/react-tabs
+
+ # Captcha for login page
+
+ ---> https://github.com/masroorejaz/react-simple-captcha
+
+ # env variables
+
+ ---> https://vitejs.dev/guide/env-and-mode.html
