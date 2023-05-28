@@ -44,4 +44,6 @@
 
  # tanstack query
 
- ---. https://tanstack.com/query/latest/docs/react/installation
+ ---> https://tanstack.com/query/latest/docs/react/installation
+
+ ---> https://tanstack.com/query/v3/docs/react/guides/query-functions
