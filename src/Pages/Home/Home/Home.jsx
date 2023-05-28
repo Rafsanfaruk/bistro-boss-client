@@ -19,6 +19,7 @@ const Home = () => {
       <Category />
       <OtherBanner />
       <PopularMeno />
+      
       <ChefCard></ChefCard>
       <Featured />
       <Testimonials />
