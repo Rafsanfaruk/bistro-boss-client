@@ -37,3 +37,11 @@
  # env variables
 
  ---> https://vitejs.dev/guide/env-and-mode.html
+
+ # react icons 
+
+ ----> https://react-icons.github.io/react-icons/
+
+ # tanstack query
+
+ ---. https://tanstack.com/query/latest/docs/react/installation
