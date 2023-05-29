@@ -47,3 +47,7 @@
  ---> https://tanstack.com/query/latest/docs/react/installation
 
  ---> https://tanstack.com/query/v3/docs/react/guides/query-functions
+
+ # jsonWebToken  
+
+ ---> https://github.com/auth0/node-jsonwebtoken
