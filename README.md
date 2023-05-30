@@ -51,3 +51,7 @@
  # jsonWebToken  
 
  ---> https://github.com/auth0/node-jsonwebtoken
+
+ # fetch work simplify
+
+ ---> https://axios-http.com/docs/intro
