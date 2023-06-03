@@ -55,3 +55,6 @@
  # fetch work simplify
 
  ---> https://axios-http.com/docs/intro
+
+ # payment 'Stripe' method
+ ---> https://github.com/stripe/react-stripe-js
