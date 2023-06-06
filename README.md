@@ -58,3 +58,7 @@
 
  # payment 'Stripe' method
  ---> https://github.com/stripe/react-stripe-js
+
+ # chart
+ ---> https://recharts.org/en-US/examples/CustomShapeBarChart
+ ---> https://recharts.org/en-US/examples/PieChartWithCustomizedLabel
